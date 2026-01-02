@@ -1,9 +1,9 @@
 <div align="center">
     <img src="image_src/logo-light.png" style="height:150px;">
 </div>
-<div align="center">
-    # 技术信息流分享智能社交平台
-</div>
+<h1 align="center">
+    技术信息流分享智能社交平台
+</h1>
 
 **Neco** 是一款基于 ~~Java Web 经典技术栈~~开发的智能社交平台。它不仅实现了~~流畅的~~实时通讯、社交广场和个人空间，还集成了 **DeepSeek AI**，为你提供 24/7 的智能陪伴与知识问答服务
 
