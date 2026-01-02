@@ -5,18 +5,28 @@
     技术信息流分享智能社交平台
 </h1>
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-22c55e?style=for-the-badge&logo=openaigym&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
 **Neco** 是一款基于 ~~Java Web 经典技术栈~~开发的智能社交平台。它不仅实现了~~流畅的~~实时通讯、社交广场和个人空间，还集成了 **DeepSeek AI**，为你提供 24/7 的智能陪伴与知识问答服务
 
 > **~~不仅仅是聊天，更是智能社交的新起点~~**
 
 ---
+# 目录
+- [技术栈](#️-技术栈)
+- [核心特性](#-核心特性)
+- [快速开始与部署](#-快速开始与部署)
+- [界面预览](#-界面预览)
+- [项目结构](#-项目结构)
+- [贡献](#-贡献)
+
+---
+
 ## 🛠️ 技术栈
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-22c55e?style=for-the-badge&logo=openaigym&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-### 后端 (Backend)
 
+### 后端 (Backend)
 * **核心框架**: Java Servlet 4.0 + JSP
 * **实时通信**: Java WebSocket API
 
