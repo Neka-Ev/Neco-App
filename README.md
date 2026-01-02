@@ -163,6 +163,8 @@ NecoChat/
 
 ## 🤝 贡献
 ![avatar](image_src/avatar.png)
+![avatar](image_src/cico.png)
+
 > **University**: [Chang'an University](https://chd.edu.cn)
 
 > **Mail**: wenyi4546@gmail.com
