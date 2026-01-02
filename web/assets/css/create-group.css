@@ -1,0 +1,124 @@
+.create-group-container {
+    max-width: 600px;
+}
+
+.create-group-form {
+    background-color: var(--color-surface);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px var(--color-shadow);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: var(--color-text);
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.friends-select-container {
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    background-color: var(--color-surface);
+}
+
+.friend-select-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.friend-select-item:last-child {
+    border-bottom: none;
+}
+
+.friend-checkbox {
+    margin-right: 10px;
+    accent-color: var(--color-primary);
+}
+
+.friend-label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    flex: 1;
+}
+
+.friend-avatar {
+    margin-right: 10px;
+}
+
+.friend-display-name {
+    color: var(--color-text-muted);
+}
+
+.form-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    color: var(--color-text);
+}
+
+.cancel-btn, .submit-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    color: var(--color-surface);
+}
+
+.cancel-btn {
+    background-color: var(--color-text-muted);
+}
+
+.cancel-btn:hover {
+    background-color: var(--color-text);
+    color: var(--color-bg);
+}
+
+.submit-btn {
+    background-color: var(--color-primary);
+}
+
+.submit-btn:hover {
+    background-color: var(--color-primary-dark);
+}
+
+.submit-btn:disabled {
+    background-color: var(--color-text-muted);
+    color: var(--color-surface);
+}
+
+.loading-indicator {
+    padding: 20px;
+    text-align: center;
+    color: var(--color-text-muted);
+}
+
+.empty-state {
+    padding: 20px;
+    text-align: center;
+    color: var(--color-text-muted);
+}
+
+.error-state {
+    padding: 20px;
+    text-align: center;
+    color: var(--color-danger);
+}
