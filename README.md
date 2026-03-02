@@ -5,8 +5,10 @@
     技术信息流分享智能社交平台
 </h1>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-22c55e?style=for-the-badge&logo=openaigym&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+<div align="center">
+    
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-22c55e?style=for-the-badge&logo=openaigym&logoColor=white) <br>![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) <br>![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+</div>
 
 **Neco** 是一款基于 ~~Java Web 经典技术栈~~开发的智能社交平台。它不仅实现了~~流畅的~~实时通讯、社交广场和个人空间，还集成了 **DeepSeek AI**，为你提供 24/7 的智能陪伴与知识问答服务
 
@@ -163,7 +165,10 @@ NecoChat/
 
 ## 🤝 贡献
 ![avatar](image_src/avatar.png)
-![avatar](image_src/cico.png)
+
+<div align="center">
+<img src="image_src/cico.png" width=175px height=175px>
+</div>
 
 > **University**: [Chang'an University](https://chd.edu.cn)
 
