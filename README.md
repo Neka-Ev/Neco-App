@@ -164,11 +164,15 @@ NecoChat/
 ---
 
 ## 🤝 贡献
-![avatar](image_src/avatar.png)
-
 <div align="center">
-<img src="image_src/cico.png" width=175px height=175px>
+    <img src="https://github.com/Neka-Ev.png" width=90px height=90px>
+    <p>Neka-Ev</p>
 </div>
+<div align="center">
+    <img src="https://github.com/Cicoiii.png" width=90px height=90px>
+    <p>Cicoiii</p>
+</div>
+
 
 > **University**: [Chang'an University](https://chd.edu.cn)
 
